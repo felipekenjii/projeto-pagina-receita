@@ -28,10 +28,11 @@ Você pode visualizar o layout original do projeto no Figma clicando no link aba
 ## 💡 Aprendizados
 
 Neste meu primeiro projeto realizado durante o curso de Full-Stack, aprendi a criar páginas de forma semântica e aprendi conhecimentos iniciais em CSS.
+
 ---
 
 ## 🚀 Como Executar
 
-1. **Clone o repositório:**
+1. Clone o repositório:
    ```bash
    git clone https://github.com/felipekenjii/projeto-receitas.git
