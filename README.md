@@ -1,11 +1,11 @@
-<h1 align="center">cookie Primeiro Projeto | Página de Receita </h1>
+<h1 align="center">🍪 Primeiro Projeto | Página de Receita </h1>
 
 <p align="center">
   Projeto desenvolvido durante o curso de <strong>Full-Stack da Rocketseat</strong>, utilizando <strong>HTML</strong> e <strong>CSS</strong>.
 </p>
 
 <p align="center">
-  <img src="assets/thumbnail.jpg" alt="Capa do projeto">
+  <img src="assets/thumbnail.png" alt="Capa do projeto">
 </p>
 
 <hr>
