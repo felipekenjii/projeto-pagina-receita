@@ -35,4 +35,4 @@ Neste meu primeiro projeto realizado durante o curso de Full-Stack, aprendi a cr
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/felipekenjii/projeto-receitas.git
+   git clone https://github.com/felipekenjii/projeto-pagina-receita.git
